@@ -1,4 +1,4 @@
 <header>
-	<h1>Welcom to  the BShop!<h1>
+	<h1>Welcom to  the BarberShop!<h1>
 </header>
 
